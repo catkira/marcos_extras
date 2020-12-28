@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash 
 #
 # Quick helper script to generate bin files from bit files in this folder
 #
